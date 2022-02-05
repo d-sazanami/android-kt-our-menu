@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Our Menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="fried_menu_text">炒めもの</string>
+    <string name="rice_menu_text">ご飯もの</string>
+    <string name="noodle_menu_text">麺</string>
+    <string name="other_menu_text">その他</string>
+    <string name="fried_rebanira_text">レバニラ炒め</string>
+    <string name="mabo_tobu_text">麻婆豆腐</string>
+    <string name="pattai_text">パッタイ</string>
+    <string name="tyahan_text">チャーハン</string>
+    <string name="shouyu_ramen_text">しょうゆラーメン</string>
+    <string name="oden_text">おでん</string>
 </resources>
