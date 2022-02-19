@@ -9,14 +9,47 @@
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/fried"
-        android:title="@string/fried_menu_text" />
+        android:title="@string/fried_menu_text" >
+        <menu >
+            <item
+                android:id="@+id/chinjyaorosu_menu"
+                android:title="@string/chinjyaorosu_text" />
+            <item
+                android:id="@+id/fried_rebanira_menu"
+                android:title="@string/fried_rebanira_text" />
+        </menu>
+    </item>
     <item
         android:id="@+id/rice"
-        android:title="@string/rice_menu_text" />
+        android:title="@string/rice_menu_text" >
+        <menu >
+            <item
+                android:id="@+id/mabo_tofu_menu"
+                android:title="@string/mabo_tobu_text" />
+            <item
+                android:id="@+id/tyahan_menu"
+                android:title="@string/tyahan_text" />
+        </menu>
+    </item>
     <item
         android:id="@+id/noodle"
-        android:title="@string/noodle_menu_text" />
+        android:title="@string/noodle_menu_text" >
+        <menu >
+            <item
+                android:id="@+id/pattai_menu"
+                android:title="@string/pattai_text" />
+            <item
+                android:id="@+id/shoyu_ramen_menu"
+                android:title="@string/shouyu_ramen_text" />
+        </menu>
+    </item>
     <item
         android:id="@+id/other"
-        android:title="@string/other_menu_text" />
+        android:title="@string/other_menu_text" >
+        <menu >
+            <item
+                android:id="@+id/oden_menu"
+                android:title="@string/oden_text" />
+        </menu>
+    </item>
 </menu>
